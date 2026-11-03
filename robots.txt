@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sk-private-chauffeur-acting-driver.netlify.app/sitemap.xml
